@@ -1,0 +1,186 @@
+#id,type,Make,Year,Trim,Base MSRP,Weight kg,Drive type,Engine type,Battery kW
+101,C,Ford,2024,Lariat 4dr SuperCrew 4WD SB (electric DD),76995,2323,four wheel drive,electric,78
+102,C,Ford,2024,Pro 4dr SuperCrew 4WD SB (electric DD),54995,2145,four wheel drive,electric,52
+103,C,Ford,2024,XLT 4dr SuperCrew 4WD SB (electric DD),62995,2223,four wheel drive,electric,52
+104,C,Ford,2024,Platinum 4dr SuperCrew 4WD SB (electric DD),84995,2453,four wheel drive,electric,82
+105,C,Ford,2024,Flash 4dr SuperCrew 4WD SB (electric DD),67995,2245,four wheel drive,electric,52
+106,C,Ford,2023,Pro 4dr SuperCrew 4WD SB (electric DD),49995,2112,four wheel drive,electric,52
+107,C,Ford,2023,Platinum 4dr SuperCrew 4WD SB (electric DD),91995,2565,four wheel drive,electric,82
+108,C,Ford,2023,Lariat 4dr SuperCrew 4WD SB (electric DD),69995,2454,four wheel drive,electric,78
+109,C,Ford,2023,XLT 4dr SuperCrew 4WD SB (electric DD),54995,2242,four wheel drive,electric,52
+110,C,Ford,2022,Platinum 4dr SuperCrew 4WD SB (electric DD),90874,2586,four wheel drive,electric,82
+111,C,Ford,2022,XLT 4dr SuperCrew 4WD SB (electric DD),52974,2134,four wheel drive,electric,52
+112,C,Ford,2022,Lariat 4dr SuperCrew 4WD SB (electric DD),67474,2354,four wheel drive,electric,78
+113,C,Ford,2022,Pro 4dr SuperCrew 4WD SB (electric DD),39974,1890,four wheel drive,electric,45
+501,C,Ford,2024,XL 4dr SuperCrew 4WD 6.5 ft. SB (5.0L 8cyl 10A),49405,2561,four wheel drive,flex-fuel
+502,C,Ford,2024,Lariat 4dr SuperCrew 4WD 6.5 ft. SB (5.0L 8cyl 10A),65800,2561,four wheel drive,flex-fuel
+503,C,Ford,2024,XL 2dr Regular Cab 6.5 ft. SB (5.0L 8cyl 10A),36770,2176,rear wheel drive,flex-fuel
+504,C,Ford,2024,XL 2dr Regular Cab 4WD 6.5 ft. SB (5.0L 8cyl 10A),41785,2308,four wheel drive,flex-fuel
+505,C,Ford,2024,XLT 4dr SuperCrew 4WD 6.5 ft. SB (5.0L 8cyl 10A),55830,2561,four wheel drive,flex-fuel
+506,C,Ford,2024,Lariat 4dr SuperCrew 4WD 5.5 ft. SB (5.0L 8cyl 10A),65195,2510,four wheel drive,flex-fuel
+507,C,Ford,2024,Tremor 4dr SuperCrew 4WD 5.5 ft. SB (5.0L 8cyl 10A),64150,2633,four wheel drive,flex-fuel
+508,C,Ford,2020,XL 4dr SuperCab 4WD 8 ft. LB (5.0L 8cyl 10A),38515,2464,four wheel drive,flex-fuel
+509,C,Ford,2020,XLT 4dr SuperCab 4WD 8 ft. LB (5.0L 8cyl 10A),43350,2464,four wheel drive,flex-fuel
+510,C,Ford,2020,Lariat 4dr SuperCab 4WD 8 ft. LB (5.0L 8cyl 10A),47925,2464,four wheel drive,flex-fuel
+511,C,Ford,2020,XL 4dr SuperCrew 4WD 6.5 ft. SB (5.0L 8cyl 10A),41050,2456,four wheel drive,flex-fuel
+512,C,Ford,2020,XLT 4dr SuperCrew 4WD 6.5 ft. SB (5.0L 8cyl 10A),45770,2456,four wheel drive,flex-fuel
+513,C,Ford,2020,Lariat 4dr SuperCrew 4WD 6.5 ft. SB (5.0L 8cyl 10A),50285,2456,four wheel drive,flex-fuel
+514,C,Ford,2020,King Ranch 4dr SuperCrew 5.5 ft. SB (5.0L 8cyl 10A),52990,2303,rear wheel drive,flex-fuel
+515,C,Ford,2020,King Ranch 4dr SuperCrew 6.5 ft. SB (5.0L 8cyl 10A),53290,2319,rear wheel drive,flex-fuel
+516,C,Ford,2020,King Ranch 4dr SuperCrew 4WD 5.5 ft. SB (5.0L 8cyl 10A),56415,2433,four wheel drive,flex-fuel
+517,C,Ford,2020,King Ranch 4dr SuperCrew 4WD 6.5 ft. SB (5.0L 8cyl 10A),56715,2456,four wheel drive,flex-fuel
+518,C,Ford,2020,Platinum 4dr SuperCrew 5.5 ft. SB (5.0L 8cyl 10A),55520,2303,rear wheel drive,flex-fuel
+519,C,Ford,2020,Platinum 4dr SuperCrew 6.5 ft. SB (5.0L 8cyl 10A),55820,2319,rear wheel drive,flex-fuel
+520,C,Ford,2020,Platinum 4dr SuperCrew 4WD 5.5 ft. SB (5.0L 8cyl 10A),58945,2433,four wheel drive,flex-fuel
+521,C,Ford,2020,Platinum 4dr SuperCrew 4WD 6.5 ft. SB (5.0L 8cyl 10A),59245,2456,four wheel drive,flex-fuel
+522,C,BMW,2024,330i 4dr Sedan (2.0L 4cyl Turbo 8A),44500,1768,rear wheel drive,gas
+523,C,BMW,2024,330i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A),46500,1835,all wheel drive,gas
+524,C,BMW,2024,M3 Competition xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A),84300,1995,all wheel drive,gas
+525,C,BMW,2024,M3 4dr Sedan (3.0L 6cyl Turbo 6M),76000,1920,rear wheel drive,gas
+526,C,BMW,2024,M3 Competition 4dr Sedan (3.0L 6cyl Turbo 8A),80200,1945,rear wheel drive,gas
+527,C,BMW,2024,M3 CS 4dr Sedan AWD (3.0L 6cyl Turbo 8A),118700,1957,all wheel drive,gas
+528,C,BMW,2022,330i 4dr Sedan (2.0L 4cyl Turbo 8A),41450,1780,rear wheel drive,gas
+529,C,BMW,2022,330i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A),43450,1843,all wheel drive,gas
+530,C,BMW,2022,M3 4dr Sedan (3.0L 6cyl Turbo 6M),70100,1920,rear wheel drive,gas
+531,C,BMW,2022,M3 Competition 4dr Sedan (3.0L 6cyl Turbo 8A),73000,1945,rear wheel drive,gas
+532,C,BMW,2022,M3 Competition xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A),77100,1995,all wheel drive,gas
+533,C,BMW,2020,330i 4dr Sedan (2.0L 4cyl Turbo 8A),40750,1794,rear wheel drive,gas
+534,C,BMW,2020,330i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A),42750,1886,all wheel drive,gas
+535,C,BMW,2020,M340i 4dr Sedan (3.0L 6cyl Turbo 8A),54000,1924,rear wheel drive,gas
+536,C,BMW,2020,M340i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A),56000,1984,all wheel drive,gas
+537,C,Ford,2024,King Ranch 4dr SuperCrew 4WD 5.5 ft. SB (3.5L 6cyl Turbo 10A),73735,2548,four wheel drive,gas
+538,C,Ford,2024,XL 2dr Regular Cab 8 ft. LB (2.7L 6cyl Turbo 10A),36870,2198,rear wheel drive,gas
+539,C,Ford,2024,XLT 4dr SuperCab 6.5 ft. SB (2.7L 6cyl Turbo 10A),47620,2320,rear wheel drive,gas
+540,C,Ford,2024,XL 4dr SuperCab 4WD 6.5 ft. SB (2.7L 6cyl Turbo 10A),44980,2447,four wheel drive,gas
+541,C,Ford,2024,Platinum 4dr SuperCrew 4WD 5.5 ft. SB (3.5L 6cyl Turbo 10A),73735,2548,four wheel drive,gas
+542,C,Ford,2024,XLT 4dr SuperCrew 5.5 ft. SB (2.7L 6cyl Turbo 10A),49980,2343,rear wheel drive,gas
+543,C,Ford,2024,XLT 4dr SuperCab 4WD 6.5 ft. SB (2.7L 6cyl Turbo 10A),51420,2447,four wheel drive,gas
+544,C,Ford,2024,King Ranch 4dr SuperCrew 4WD 6.5 ft. SB (3.5L 6cyl Turbo 10A),74040,2571,four wheel drive,gas
+545,C,Ford,2024,XLT 4dr SuperCrew 4WD 5.5 ft. SB (2.7L 6cyl Turbo 10A),53840,2470,four wheel drive,gas
+546,C,Ford,2024,XL 4dr SuperCab 6.5 ft. SB (2.7L 6cyl Turbo 10A),41180,2320,rear wheel drive,gas
+547,C,Ford,2024,XL 2dr Regular Cab 4WD 8 ft. LB (2.7L 6cyl Turbo 10A),41885,2339,four wheel drive,gas
+548,C,Ford,2024,Platinum 4dr SuperCrew 4WD 6.5 ft. SB (3.5L 6cyl Turbo 10A),74040,2571,four wheel drive,gas
+549,C,Ford,2024,XL 4dr SuperCrew 5.5 ft. SB (2.7L 6cyl Turbo 10A),43515,2343,rear wheel drive,gas
+550,C,Ford,2024,XL 4dr SuperCrew 4WD 5.5 ft. SB (2.7L 6cyl Turbo 10A),47395,2470,four wheel drive,gas
+551,C,Ford,2024,Raptor 4dr SuperCrew 4WD 5.5 ft. SB (3.5L 6cyl Turbo 10A),78330,2855,four wheel drive,gas
+552,C,Ford,2024,STX 4dr SuperCrew 5.5 ft. SB (2.7L 6cyl Turbo 10A),48230,2343,rear wheel drive,gas
+553,C,Ford,2024,STX 4dr SuperCab 4WD 6.5 ft. SB (2.7L 6cyl Turbo 10A),49695,2447,four wheel drive,gas
+554,C,Ford,2024,STX 4dr SuperCrew 4WD 5.5 ft. SB (2.7L 6cyl Turbo 10A),52110,2470,four wheel drive,gas
+555,C,Ford,2024,STX 4dr SuperCab 6.5 ft. SB (2.7L 6cyl Turbo 10A),45895,2320,rear wheel drive,gas
+556,C,Ford,2020,XL 2dr Regular Cab 6.5 ft. SB (3.3L 6cyl 6A),28745,2034,rear wheel drive,gas
+557,C,Ford,2020,XL 2dr Regular Cab 8 ft. LB (3.3L 6cyl 6A),29045,2088,rear wheel drive,gas
+558,C,Ford,2020,XL 2dr Regular Cab 4WD 6.5 ft. SB (3.3L 6cyl 6A),33390,2165,four wheel drive,gas
+559,C,Ford,2020,XL 2dr Regular Cab 4WD 8 ft. LB (3.3L 6cyl 6A),33690,2209,four wheel drive,gas
+560,C,Ford,2020,XLT 2dr Regular Cab 6.5 ft. SB (3.3L 6cyl 6A),34760,2034,rear wheel drive,gas
+561,C,Ford,2020,XLT 2dr Regular Cab 8 ft. LB (3.3L 6cyl 6A),35060,2088,rear wheel drive,gas
+562,C,Ford,2020,XLT 2dr Regular Cab 4WD 6.5 ft. SB (3.3L 6cyl 6A),38185,2165,four wheel drive,gas
+563,C,Ford,2020,XLT 2dr Regular Cab 4WD 8 ft. LB (3.3L 6cyl 6A),38485,2209,four wheel drive,gas
+564,C,Ford,2020,XL 4dr SuperCab 6.5 ft. SB (3.3L 6cyl 6A),32830,2207,rear wheel drive,gas
+565,C,Ford,2020,XL 4dr SuperCab 8 ft. LB (2.7L 6cyl Turbo 10A),34135,2322,rear wheel drive,gas
+566,C,Ford,2020,XL 4dr SuperCab 4WD 6.5 ft. SB (3.3L 6cyl 6A),36260,2334,four wheel drive,gas
+567,C,Ford,2020,XLT 4dr SuperCab 6.5 ft. SB (3.3L 6cyl 6A),37670,2207,rear wheel drive,gas
+568,C,Ford,2020,XLT 4dr SuperCab 8 ft. LB (2.7L 6cyl Turbo 10A),38975,2322,rear wheel drive,gas
+569,C,Ford,2020,XLT 4dr SuperCab 4WD 6.5 ft. SB (3.3L 6cyl 6A),41095,2334,four wheel drive,gas
+570,C,Ford,2020,Lariat 4dr SuperCab 6.5 ft. SB (2.7L 6cyl Turbo 10A),43250,2247,rear wheel drive,gas
+571,C,Ford,2020,Lariat 4dr SuperCab 8 ft. LB (2.7L 6cyl Turbo 10A),43550,2322,rear wheel drive,gas
+572,C,Ford,2020,Lariat 4dr SuperCab 4WD 6.5 ft. SB (2.7L 6cyl Turbo 10A),46675,2402,four wheel drive,gas
+573,C,Ford,2020,Raptor 4dr SuperCab 4WD (3.5L 6cyl Turbo 10A),53455,2762,four wheel drive,gas
+574,C,Ford,2020,XL 4dr SuperCrew 5.5 ft. SB (3.3L 6cyl 6A),35285,2264,rear wheel drive,gas
+575,C,Ford,2020,XL 4dr SuperCrew 6.5 ft. SB (2.7L 6cyl Turbo 10A),36590,2313,rear wheel drive,gas
+576,C,Ford,2020,XL 4dr SuperCrew 4WD 5.5 ft. SB (3.3L 6cyl 6A),38795,2384,four wheel drive,gas
+577,C,Ford,2020,XLT 4dr SuperCrew 5.5 ft. SB (3.3L 6cyl 6A),40020,2264,rear wheel drive,gas
+578,C,Ford,2020,XLT 4dr SuperCrew 6.5 ft. SB (2.7L 6cyl Turbo 10A),41325,2313,rear wheel drive,gas
+579,C,Ford,2020,XLT 4dr SuperCrew 4WD 5.5 ft. SB (3.3L 6cyl 6A),43515,2384,four wheel drive,gas
+580,C,Ford,2020,Lariat 4dr SuperCrew 5.5 ft. SB (2.7L 6cyl Turbo 10A),45610,2301,rear wheel drive,gas
+581,C,Ford,2020,Lariat 4dr SuperCrew 6.5 ft. SB (2.7L 6cyl Turbo 10A),45910,2313,rear wheel drive,gas
+582,C,Ford,2020,Lariat 4dr SuperCrew 4WD 5.5 ft. SB (2.7L 6cyl Turbo 10A),49035,2429,four wheel drive,gas
+583,C,Ford,2020,Raptor 4dr SuperCrew 4WD (3.5L 6cyl Turbo 10A),56440,2848,four wheel drive,gas
+584,C,Ford,2020,Limited 4dr SuperCrew 5.5 ft. SB (3.5L 6cyl Turbo 10A),67735,2327,rear wheel drive,gas
+585,C,Ford,2020,Limited 4dr SuperCrew 4WD 5.5 ft. SB (3.5L 6cyl Turbo 10A),71160,2458,four wheel drive,gas
+201,C,Toyota,2024,XLE 4dr Hatchback (2.0L 4cyl gas/electric hybrid CVT),31395,1582,front wheel drive,hybrid,15
+202,C,Toyota,2024,LE 4dr Hatchback (2.0L 4cyl gas/electric hybrid CVT),27950,1548,front wheel drive,hybrid,15
+203,C,Toyota,2024,XLE 4dr Hatchback AWD (2.0L 4cyl gas/electric hybrid CVT),32795,1642,all wheel drive,hybrid,15
+204,C,Toyota,2024,Limited 4dr Hatchback (2.0L 4cyl gas/electric hybrid CVT),34965,1609,front wheel drive,hybrid,15
+205,C,Toyota,2024,LE 4dr Hatchback AWD (2.0L 4cyl gas/electric hybrid CVT),29350,1615,all wheel drive,hybrid,15
+206,C,Toyota,2024,Limited 4dr Hatchback AWD (2.0L 4cyl gas/electric hybrid CVT),36365,1670,all wheel drive,hybrid,15
+207,C,Toyota,2023,LE 4dr Hatchback (2.0L 4cyl gas/electric hybrid CVT),27450,1548,front wheel drive,hybrid,15
+208,C,Toyota,2023,LE 4dr Hatchback AWD (2.0L 4cyl gas/electric hybrid CVT),28850,1615,all wheel drive,hybrid,15
+209,C,Toyota,2023,XLE 4dr Hatchback (2.0L 4cyl gas/electric hybrid CVT),30895,1582,front wheel drive,hybrid,16
+210,C,Toyota,2023,XLE 4dr Hatchback AWD (2.0L 4cyl gas/electric hybrid CVT),32295,1642,all wheel drive,hybrid,16
+211,C,Toyota,2023,Limited 4dr Hatchback (2.0L 4cyl gas/electric hybrid CVT),34465,1609,front wheel drive,hybrid,16
+212,C,Toyota,2023,Limited 4dr Hatchback AWD (2.0L 4cyl gas/electric hybrid CVT),35865,1670,all wheel drive,hybrid,16
+213,C,Toyota,2022,L Eco 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),25075,1505,front wheel drive,hybrid,12
+214,C,Toyota,2022,XLE 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),29295,1537,front wheel drive,hybrid,12
+215,C,Toyota,2022,LE 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),26285,1520,front wheel drive,hybrid,12
+216,C,Toyota,2022,Limited 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),33370,1537,front wheel drive,hybrid,17
+217,C,Toyota,2022,LE AWD-e 4dr Hatchback AWD (1.8L 4cyl gas/electric hybrid CVT),27685,1605,all wheel drive,hybrid,12
+218,C,Toyota,2022,XLE AWD-e 4dr Hatchback AWD (1.8L 4cyl gas/electric hybrid CVT),30125,1610,all wheel drive,hybrid,17
+219,C,Toyota,2022,Nightshade Edition AWD-e 4dr Hatchback AWD (1.8L 4cyl gas/electric hybrid CVT),30675,1610,all wheel drive,hybrid,17
+220,C,Toyota,2022,Nightshade Edition 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),29545,1537,front wheel drive,hybrid,16
+221,C,Toyota,2021,L Eco 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),24525,1505,front wheel drive,hybrid,15
+222,C,Toyota,2021,XLE AWD-e 4dr Hatchback AWD (1.8L 4cyl gas/electric hybrid CVT),29575,1610,all wheel drive,hybrid,16
+223,C,Toyota,2021,LE AWD-e 4dr Hatchback AWD (1.8L 4cyl gas/electric hybrid CVT),27135,1605,all wheel drive,hybrid,16
+224,C,Toyota,2021,Limited 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),32650,1537,front wheel drive,hybrid,18
+225,C,Toyota,2021,LE 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),25735,1520,front wheel drive,hybrid,16
+226,C,Toyota,2021,XLE 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),28575,1537,front wheel drive,hybrid,18
+227,C,Toyota,2021,2020 Edition 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),29875,1537,front wheel drive,hybrid,18
+228,C,Toyota,2020,L Eco 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),24325,1505,front wheel drive,hybrid,16
+229,C,Toyota,2020,LE 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),25535,1520,front wheel drive,hybrid,16
+230,C,Toyota,2020,LE AWD-e 4dr Hatchback AWD (1.8L 4cyl gas/electric hybrid CVT),26935,1605,all wheel drive,hybrid,17
+231,C,Toyota,2020,XLE 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),28375,1537,front wheel drive,hybrid,18
+232,C,Toyota,2020,XLE AWD-e 4dr Hatchback AWD (1.8L 4cyl gas/electric hybrid CVT),29375,1610,all wheel drive,hybrid,18
+233,C,Toyota,2020,Limited 4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT),32500,1537,front wheel drive,hybrid,18
+234,C,BMW,2024,M340i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo gas/electric mild hybrid 8A),59600,1975,all wheel drive,mild hybrid,24
+235,C,BMW,2024,M340i 4dr Sedan (3.0L 6cyl Turbo gas/electric mild hybrid 8A),57600,1917,rear wheel drive,mild hybrid,24
+236,C,BMW,2022,M340i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo gas/electric mild hybrid 8A),56700,1989,all wheel drive,mild hybrid,24
+237,C,BMW,2022,M340i 4dr Sedan (3.0L 6cyl Turbo gas/electric mild hybrid 8A),54700,1938,rear wheel drive,mild hybrid,24
+238,C,BMW,2024,330e 4dr Sedan (2.0L 4cyl Turbo gas/electric plug-in hybrid 8A),45600,2041,rear wheel drive,plug-in hybrid,21
+239,C,BMW,2024,330e xDrive 4dr Sedan AWD (2.0L 4cyl Turbo gas/electric plug-in hybrid 8A),47600,2090,all wheel drive,plug-in hybrid,21
+240,C,BMW,2022,330e xDrive 4dr Sedan AWD (2.0L 4cyl Turbo gas/electric plug-in hybrid 8A),44950,2069,all wheel drive,plug-in hybrid,21
+241,C,BMW,2022,330e 4dr Sedan (2.0L 4cyl Turbo gas/electric plug-in hybrid 8A),42950,2019,rear wheel drive,plug-in hybrid,21
+401,B,BMW,2022,K 1600 B, 22545,343
+402,B,BMW,2021,K 1600 B, 23195,336
+403,B,BMW,2020,K 1600 B,22123,336
+404,B,BMW,2022,K 1600 B Midnight, 28695,344
+405,B,BMW,2022,K 1600 Grand America, 27745,367
+406,B,BMW,2021,K 1600 Grand America, 26295,364
+407,B,BMW,2020,K 1600 Grand America,25776,364
+408,B,BMW,2022,K 1600 GT,24773,343
+409,B,BMW,2021,K 1600 GT, 24045,334
+410,B,BMW,2020,K 1600 GT,23786,334
+411,B,BMW,2021,K 1600 GTL, 26995,350
+412,B,BMW,2020,K 1600 GTL,25742,350
+413,B,MV Agusta,2022,Brutale 1000 Nurburgring,31245,433
+414,B,MV Agusta,2022,Brutale 1000 Nurburgring Racing,31120,433
+415,B,MV Agusta,2022,Brutale 1000 RR,30224,433
+416,B,MV Agusta,2021,Brutale 1000 RR,31500,433
+417,B,MV Agusta,2020,Brutale 1000 RR,29900,420
+418,B,MV Agusta,2022,Brutale 1000 RS, 25500,420
+419,B,MV Agusta,2021,Brutale 1000 Serie Oro,31000,420
+420,B,MV Agusta,2020,Brutale 1000 Serie Oro,29900,420
+421,B,MV Agusta,2021,Brutale 800 Rosso,11990,390
+422,B,MV Agusta,2020,Brutale 800 Rosso,11855,390
+423,B,MV Agusta,2022,Brutale 800 RR, 17000,390
+424,B,MV Agusta,2021,Brutale 800 RR,17000,390
+425,B,MV Agusta,2020,Brutale 800 RR,16245,390
+426,B,MV Agusta,2021,Brutale 800 RR SCS,17500,390
+427,B,MV Agusta,2020,Brutale 800 RR SCS,16999,390
+428,B,MV Agusta,2022,Brutale Rosso,14220,380
+429,B,Yamaha,2021,YZF R15,21340,138
+430,B,Yamaha,2020,YZF R15,21300,142
+431,B,Yamaha,2020,YZF R15 V,21350,142
+432,B,Yamaha,2021,YZF R6 Race,25670,190
+433,B,Yamaha,2021,YZF-R1, 17399,203
+434,B,Yamaha,2020,YZF-R1, 17399,203
+435,B,Yamaha,2021,YZF-R125,17244,144
+436,B,Yamaha,2021,YZF-R1M, 26099,204
+437,B,Yamaha,2020,YZF-R1M, 26099,204
+438,B,Yamaha,2021,YZF-R25,25700,167
+439,B,Yamaha,2020,YZF-R25,25700,167
+440,B,Yamaha,2021,YZF-R3,5299,166
+441,B,Yamaha,2020,YZF-R3,5299,166
+442,B,Yamaha,2021,YZF-R3 Monster Energy,5599,166
+443,B,Yamaha,2020,YZF-R3SP,5500,167
+444,B,Yamaha,2020,YZF-R6,5567,190
+445,B,Yamaha,2022,YZF-R7,8999,187
+446,B,Yamaha,2021,YZF-R7,8960,187
